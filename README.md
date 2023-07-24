@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋</h1>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/your_username" alt="Profile Picture" width="200" height="200">
+  <img src="https://avatars.githubusercontent.com/aybarsduran" alt="Profile Picture" width="200" height="200">
 </p>
 
 <p align="center">
