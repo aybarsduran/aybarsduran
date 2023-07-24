@@ -1,9 +1,8 @@
 <h1 align="center">Hi there! 👋</h1>
 
 
-<p align="center">
-  📫 How to reach me: **aybarsduran@outlook.com**
-</p>
+- 📫 How to reach me aybarsduran@outlook.com
+
 
 <p align="center">
   <a href="https://linkedin.com/in/aybarsduran" target="_blank">
