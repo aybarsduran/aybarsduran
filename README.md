@@ -4,20 +4,6 @@ I'm Aybars from Turkey, and I work on Unity and game development. I really enjoy
 - 🔭 I’m currently working on Unity  
 - 📫 How to reach me: aybarsduran@outlook.com 
 
-
-
-### 🔧 Skills & Technologies
-- Unity Game Development
-- C# Programming
-- Game Mechanics and Level Design
-- Java
-- Kotlin and Android developing
-- Python
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aybarsduran)  
-
-![Profile views](https://gpvc.arturio.dev/aybarsduran)  
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aybarsduran&label=Profile%20views&color=0e75b6&style=flat" alt="aybarsduran" /> </p>
 
 <p align="left">
