@@ -9,7 +9,7 @@ I'm Aybars from Turkey, and I work on Unity and game development. I really enjoy
 <a href="https://twitter.com/aybarsd7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aybarsd7" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22237320" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22237320" height="30" width="40" /></a>
 <a href="https://instagram.com/aybarsd7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aybarsd7" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/aybarsduran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aybarsduran" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@aybarsduran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aybarsduran" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aybarsduran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aybarsduran" height="30" width="40" /></a>
 </p>
 
