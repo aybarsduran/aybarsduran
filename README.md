@@ -1,13 +1,21 @@
-<h1 align="center">Hi there! 👋</h1>
+### Hi there 👋, I am Aybars
+I'm Aybars from Turkey, and I work on Unity and game development. I really enjoy learning languages and technologies like C# and Unity.
+
+- 🔭 I’m currently working on Unity  
+- 📫 How to reach me: aybarsduran@outlook.com 
 
 
-- 📫 How to reach me aybarsduran@outlook.com
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aybarsduran)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aybarsduran/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/aybarsd7/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/aybarsd7)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/aybars-duran)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/aybarsduran)  
 
+### 🔧 Skills & Technologies
 
-<p align="center">
-  <a href="https://linkedin.com/in/aybarsduran" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40">
-  </a>
+- Unity Game Development
+- C# Programming
+- Game Mechanics and Level Design
+- Java
+- Kotlin and Android developing
+- Python
 
-</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aybarsduran&label=Profile%20views&color=0e75b6&style=flat" alt="aybarsduran" /> </p>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aybarsduran)  
+
+![Profile views](https://gpvc.arturio.dev/aybarsduran)  
